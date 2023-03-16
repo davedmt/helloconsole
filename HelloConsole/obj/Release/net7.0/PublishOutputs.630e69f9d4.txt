@@ -1,0 +1,5 @@
+C:\Users\David DZAKPASU\source\repos\HelloConsole\HelloConsole\bin\Release\net7.0\publish\HelloConsole.exe
+C:\Users\David DZAKPASU\source\repos\HelloConsole\HelloConsole\bin\Release\net7.0\publish\HelloConsole.dll
+C:\Users\David DZAKPASU\source\repos\HelloConsole\HelloConsole\bin\Release\net7.0\publish\HelloConsole.deps.json
+C:\Users\David DZAKPASU\source\repos\HelloConsole\HelloConsole\bin\Release\net7.0\publish\HelloConsole.runtimeconfig.json
+C:\Users\David DZAKPASU\source\repos\HelloConsole\HelloConsole\bin\Release\net7.0\publish\HelloConsole.pdb
